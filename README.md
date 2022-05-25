@@ -1,6 +1,7 @@
 # site_web_E-Commerce_WORDPRESS
 
-Contexte du projet
+# Contexte du projet
+
 Vous êtes amené de créer le site web de votre client spécialisé en vente en ligne. Le site se décompose en 5 pages principales, toutes accessibles depuis le header du site, lui-même présent à l'identique sur l'ensemble des pages du site. Ces pages principales sont :
 
 
