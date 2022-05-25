@@ -18,13 +18,23 @@ Vous pouvez utiliser tous les outils que vous aimez pour vous aider à relever l
 
 Les étapes à suivre :
 
-Installation de Wordpress après le téléchargement de son code source. Création de la base de données qui sera utilisé par wordpress pour création de ses tables.
+Installation de Wordpress après le téléchargement de son code source.
+
+Création de la base de données qui sera utilisé par wordpress pour création de ses tables.
 Faites un UX Research pour déterminer les besoins des utilisateurs (choix des sections, structure des pages web, les couleurs, les polices, etc
+
 Utilisez un thème de votre choix pour le site e-commerce.
+
 Installer le plugin E-Commerce WooCommerce.
+
 Configurez des catégories et des produits(titre, image, prix, coupons ....),tout en respectant le thème choisi.
+
 Créer une boutique vendant les produits de votre choix. Ajoutez pas moins de 15 produits avec différents paramètres : Différentes variations, En Promo
+
 Créer des comptes utilisateurs 'clients' et 'administrateurs' pour effectuer des jeux de tests.(passer une commande)
+
 Installez des plugins de votre choix pour les aspects suivant : SEO,sécurité, multilingue et RGPD (Règlement Général pour la Protection des Données).
+
 Les utilisateurs devraient visualiser la disposition optimale de la section en fonction de la taille de l'écran de leur appareils.
+
 Faire des simulations d’achats sur le site web.
